@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: grey;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    width: 400px;
+    height: auto;
+    background-color: aqua;
+    margin: 100px auto;
+}
+
+.upperPart {
+    height: 150px;
+    background-color: white;
+}
+
+.buttonsPart {
+    height: 400px;
+    background-color: greenyellow;
+}
